@@ -302,3 +302,15 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+/* ==========================================================================
+   Custom CSS
+   ========================================================================== */
+
+.violence-item {
+    display: block;
+    list-style-type: none;
+    height: 80px;
+    line-height: 80px;
+}
