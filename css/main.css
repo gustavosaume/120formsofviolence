@@ -308,6 +308,11 @@ textarea {
    Custom CSS
    ========================================================================== */
 
+.gradient-img {
+    background-image: url("img/Captura de pantalla 2014-03-12 a las 01.23.58.png");
+    background-size: 100% auto;
+}
+
 .gradient-bg {
     background: #f9b145; /* Old browsers */
     background: -moz-linear-gradient(top,  #f9b145 0%, #ff0000 100%); /* FF3.6+ */
