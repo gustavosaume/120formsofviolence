@@ -309,7 +309,7 @@ textarea {
    ========================================================================== */
 
 .gradient-img {
-    background-image: url("/img/backgroundGradient.png");
+    background-image: url("../img/backgroundGradient.png");
     background-size: 100% auto;
 }
 
