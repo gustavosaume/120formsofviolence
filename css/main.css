@@ -313,6 +313,11 @@ body {
     font-weight: 300;
 }
 
+.hero-title {
+    padding: 0 40px;
+    font-size: 2.5em;
+}
+
 .gradient-img {
     background-image: url("../img/backgroundGradient.png");
     background-size: 100% auto;
